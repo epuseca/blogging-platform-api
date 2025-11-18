@@ -122,3 +122,7 @@ Nếu bạn muốn, tôi có thể:
 - Thêm ví dụ request (Postman collection) hoặc tập hợp tests.
 
 File README này đã được tạo trong `README.md`.
+
+### Link
+
+https://roadmap.sh/projects/blogging-platform-api
